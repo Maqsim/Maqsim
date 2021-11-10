@@ -1,6 +1,6 @@
-### Hi there 👋
+### Max Diachenko
 
-#### I'm a Full-stack developer from Kyiv, Ukraine.
+#### Full-stack developer from Kyiv, Ukraine.
 
 - 🧔‍♂️ I'm 29
 - 👶 Touched programming at 13
