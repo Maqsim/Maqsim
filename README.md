@@ -10,4 +10,4 @@
 - 𝌍 IDE: WebStorm
 - 🚀 Working on a side project **[StackOverflow App](https://github.com/Maqsim/stackoverflow-app)**
 - 🖥 I do streaming **[Twitch](https://twitch.com/jott1)**
-- 📫 **[Telegram](tg://resolve?domain=max_diachenko)**, **[Instagram](https://www.instagram.com/max_diachenko_)**
+- 📫 **[Telegram](http://t.me/max_diachenko)**, **[Instagram](https://www.instagram.com/max_diachenko_)**
