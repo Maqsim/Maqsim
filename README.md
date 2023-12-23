@@ -2,9 +2,8 @@
 
 #### Full-stack developer from Kyiv, Ukraine.
 
-- 🧔‍♂️ I'm 31
-- 🌍 [maxdiachenko.com](https://maxdiachenko.com)
-- 👶 Touched programming at 13
+- 🧔‍♂️ I'm 32
+- 👶 Touched programming at 14
 - 🎓 Master's degree in computer science 
 - 👨‍💻 I work at **Squads**
 - ⚙️ `Angular` `Svelte` `React/NextJS` `React-native` `Electron` `MongoDB` `UI/UX`
