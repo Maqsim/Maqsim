@@ -2,8 +2,6 @@
 
 #### Full-stack developer from Kyiv, Ukraine.
 
-![](https://komarev.com/ghpvc/?username=Maqsim)
-
 - 🧔‍♂️ I'm 31
 - 🌍 [maxdiachenko.com](https://maxdiachenko.com)
 - 👶 Touched programming at 13
@@ -15,5 +13,6 @@
 
 **[Buy me a Coffee ☕️](https://www.buymeacoffee.com/maxdiachenko)**
 
+![](https://komarev.com/ghpvc/?username=Maqsim)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
